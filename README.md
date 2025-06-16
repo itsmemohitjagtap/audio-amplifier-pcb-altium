@@ -54,9 +54,9 @@ This project is a part of my ongoing PCB design practice using **Altium Designer
 * Passive components ensure clean power supply filtering and signal coupling.
 * The design follows best practices for analog audio PCB layout.
 
-## 🧑‍💻 Designed By
+ 🧑‍💻 Designed By
 
-**Mohit Jagtap**
-Electronics & Telecommunication Engineering
+**Mohit Jagtap**  
+Electronics & Telecommunication Engineering  
 Dr. D. Y. Patil Institute of Engineering Management and Research, Akurdi, Pune
 
